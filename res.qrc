@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/backimg.jpg</file>
+        <file>picture/alarmoff.png</file>
+        <file>picture/alarmon.png</file>
+        <file>picture/camaraoff.png</file>
+        <file>picture/camaraon.png</file>
+        <file>picture/lightoff.png</file>
+        <file>picture/lighton.png</file>
+        <file>picture/robort.gif</file>
+        <file>picture/windoff.png</file>
+        <file>picture/windon.png</file>
+        <file>picture/alarm.png</file>
+        <file>picture/alarm3.png</file>
+        <file>picture/conin.png</file>
+        <file>picture/conout.png</file>
+        <file>picture/resize.png</file>
+        <file>picture/457.png</file>
+        <file>picture/3658.png</file>
+        <file>picture/26348.png</file>
+        <file>picture/41534.png</file>
+        <file>picture/516592.png</file>
+        <file>picture/534249.png</file>
+        <file>picture/1106702.png</file>
+        <file>picture/1131900.png</file>
+        <file>picture/icon.png</file>
+        <file>picture/conin1.png</file>
+        <file>picture/conout1.png</file>
+        <file>sound/test.mp3</file>
+        <file>picture/recordoff.png</file>
+        <file>picture/recordon.png</file>
+        <file>sound/button.wav</file>
+        <file>sound/start.wav</file>
+        <file>picture/tvoff.png</file>
+        <file>picture/tvon.png</file>
+        <file>sound/hello.wav</file>
+    </qresource>
+</RCC>
